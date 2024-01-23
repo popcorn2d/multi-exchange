@@ -1,0 +1,12 @@
+/.idea
+/.vscode
+/.git
+.nuxt/
+.output/
+/node_modules
+/tests
+.dockerignore
+.gitattributes
+.gitignore
+compose.*.yaml
+Dockerfile
